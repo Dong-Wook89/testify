@@ -2,6 +2,12 @@
 
 인터넷 연결, 서버, 외부 API 없이 브라우저에서 HWPX 문서를 검색하는 단일 HTML 도구입니다.
 
+## 웹에서 실행
+
+<https://dong-wook89.github.io/testify/>
+
+GitHub의 파일 보기 주소(`github.com/.../blob/...`)에서는 보안상 HTML 앱이 실행되지 않습니다. 위 GitHub Pages 주소를 사용하세요.
+
 ## 포함 파일
 
 - `hwpx-offline-search/HWPX_다중문서_폐쇄망_검색챗봇.html` — 여러 HWPX 파일을 불러와 질문 형태로 검색하는 오프라인 웹 앱
@@ -24,4 +30,3 @@
 ## 보안
 
 원본 문서, 법령 PDF, 사용자 데이터, 인증정보는 저장소에 포함하지 않습니다.
-
