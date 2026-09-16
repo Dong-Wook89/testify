@@ -1,0 +1,13 @@
+# OS/editor files
+.DS_Store
+Thumbs.db
+*.swp
+
+# Source documents are intentionally excluded
+*.pdf
+*.hwpx
+*.hwp
+
+# Local exports
+exports/
+
